@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.db
+
+# Generated output
+output/
+
+# Generated quote images
+*.png
+plaque_quote_*.png
+
+# Font files
+*.ttf
+
+# Keep the quotes database
+!quotes.db
